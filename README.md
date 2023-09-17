@@ -1,4 +1,4 @@
-#ESP8266 WIFI DEAUTHER
+# ESP8266 WIFI DEAUTHER
 
 <img src='https://deauther.com/img/logo.png' alt='Deauther Logo' width='200' />
 
@@ -10,12 +10,14 @@ This repository contains code and documentation for performing WiFi deauthentica
 
 ## Table of Contents
 
-- [About this Project](#About this Project)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-- [Security Considerations](#security-considerations)
+* [About_this_Project](#About_this_Project)
+* [Prerequisites](#prerequisites)
+* [Usage](#usage)
+* [Security Considerations](#security-considerations)
+* [Connet_Wifi](#Connect_Wifi)
+* [IP_Address](#ip_address)
 
-## About this Project
+## About_this_Project
 
 This firmware allows you to easily perform a variety of actions to test 802.11 networks using an [ESP8266](https://www.espressif.com/en/products/socs/esp8266). It's also a great project for learning about WiFi, microcontrollers, Arduino, hacking and electronics/programming in general.  
 
@@ -49,9 +51,10 @@ Before you begin, make sure you have the following prerequisites:
 - Respect the laws and regulations related to network security in your jurisdiction.
 - Do not use this code for malicious or illegal activities.
 
-## Connet Wifi
+## Connet_Wifi
+
 - You need to connect the adapter to the plug, and it should display a blue blinking light on the board
 - Connect the Showing wifi name: pwned password:deather
 
-## IP Address
+## IP_Address
 - Ip address of the moudle is 192.168.4.1
