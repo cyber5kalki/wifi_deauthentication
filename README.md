@@ -4,7 +4,8 @@
 
 **Scan for available WiFi networks, selectively block certain connections, and generate multiple networks to obscure WiFi scanning.**
 
-Renewed Documentation
+## Renewed Documentation
+
 Hola 👋🏻
 This repository contains code and documentation for performing WiFi deauther attacks using an ESP8266 microcontroller.
 
