@@ -2,7 +2,7 @@
 
 <img src='https://deauther.com/img/logo.png' alt='Deauther Logo' width='200' />
 
-**Scan for available WiFi networks, selectively block certain connections, and generate multiple networks to obscure WiFi scanning.
+**Scan for available WiFi networks, selectively block certain connections, and generate multiple networks to obscure WiFi scanning.**
 
 Renewed Documentation
 Hola 👋🏻
