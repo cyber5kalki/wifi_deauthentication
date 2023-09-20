@@ -62,4 +62,4 @@ Before you begin, make sure you have the following prerequisites:
 - Connect the Showing wifi name: pwned password: deather
 
 ## IP_Address
-- The module's IP address is 192.168.4.1.
+- The module's IP address is 192.168.4.1
