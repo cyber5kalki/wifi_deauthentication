@@ -18,6 +18,7 @@ This repository contains code and documentation for performing WiFi deauther att
 * [Security Considerations](#security-considerations)
 * [Connet_Wifi](#Connect_Wifi)
 * [IP_Address](#ip_address)
+* [Password](#Password)
 
 ## Buy
 [Nodemcu_Esp8266](https://www.amazon.in/Generic-Nodemcu-Esp8266-Internet-Development/dp/B07262H53W/ref=mp_s_a_1_3?crid=IKVR7FGW4Z8O&keywords=esp8266&qid=1694963222&sprefix=esp8266%2Caps%2C523&sr=8-3)
