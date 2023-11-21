@@ -65,5 +65,13 @@ Before you begin, make sure you have the following prerequisites:
 ## IP_Address
 - The module's IP address is 192.168.4.1
 
-## Password
-- The password for pwned is *deauther*
+## Disclaimer
+--This project serves as a proof of concept for research and teaching.
+--The ESP8266 and its SDK were not designed or intended for use in this manner. Bugs can happen!
+
+--Only use it against the networks and gadgets you own!
+
+--Before using it, please make sure you are aware of the laws in your nation.
+
+--We disclaim all liability for your use of this program.
+
