@@ -61,7 +61,7 @@ Before you begin, make sure you have the following prerequisites:
 ## Connet_Wifi
 
 - You need to connect the adapter to the plug, and it should display a blue blinking light on the board
-- Connect the Showing wifi name: pwned password: deather
+- Connect the Showing wifi name: *pwned* password: *deather*
 
 ## IP_Address
 - The module's IP address is 192.168.4.1
