@@ -19,6 +19,7 @@ This repository contains code and documentation for performing WiFi deauther att
 * [Connet_Wifi](#Connect_Wifi)
 * [IP_Address](#ip_address)
 * [Password](#Password)
+* [Disclaimer](#Disclaimer)
 
 ## Buy
 [Nodemcu_Esp8266](https://www.amazon.in/Generic-Nodemcu-Esp8266-Internet-Development/dp/B07262H53W/ref=mp_s_a_1_3?crid=IKVR7FGW4Z8O&keywords=esp8266&qid=1694963222&sprefix=esp8266%2Caps%2C523&sr=8-3)
@@ -66,12 +67,12 @@ Before you begin, make sure you have the following prerequisites:
 - The module's IP address is 192.168.4.1
 
 ## Disclaimer
---This project serves as a proof of concept for research and teaching.
---The ESP8266 and its SDK were not designed or intended for use in this manner. Bugs can happen!
+- This project serves as a proof of concept for research and teaching.
+- The ESP8266 and its SDK were not designed or intended for use in this manner. Bugs can happen!
 
---Only use it against the networks and gadgets you own!
+- Only use it against the networks and gadgets you own!
 
---Before using it, please make sure you are aware of the laws in your nation.
+- Before using it, please make sure you are aware of the laws in your nation.
 
---We disclaim all liability for your use of this program.
+- We disclaim all liability for your use of this program.
 
