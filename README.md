@@ -64,3 +64,6 @@ Before you begin, make sure you have the following prerequisites:
 
 ## IP_Address
 - The module's IP address is 192.168.4.1
+
+## Password
+- The password for pwned is deauther
